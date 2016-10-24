@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (4.0.1)
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - Eureka (2.0.0-beta.1)
+  - GoogleMaps (2.1.0):
+    - GoogleMaps/Maps (= 2.1.0)
+  - GoogleMaps/Base (2.1.0)
+  - GoogleMaps/Maps (2.1.0):
+    - GoogleMaps/Base (= 2.1.0)
+  - iOS-Color-Picker (1.1.4)
+  - Kingfisher (3.1.4)
+  - MGSwipeTableCell (1.5.6)
+  - PureLayout (3.0.2)
+  - SCLAlertView (0.7.0)
+  - SnapKit (3.0.2)
+  - SwiftyButton (0.5.0):
+    - SwiftyButton/CustomContent (= 0.5.0)
+  - SwiftyButton/CustomContent (0.5.0):
+    - PureLayout (~> 3.0)
+  - SwiftyJSON (3.1.1)
+  - UIColor_Hex_Swift (3.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - ChameleonFramework
+  - Eureka (~> 2.0.0-beta.1)
+  - GoogleMaps
+  - iOS-Color-Picker
+  - Kingfisher
+  - MGSwipeTableCell
+  - SCLAlertView
+  - SnapKit
+  - SwiftyButton
+  - SwiftyJSON
+  - UIColor_Hex_Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  Eureka: d014adf16406745e1a78d5790ea37ed130a0a8e5
+  GoogleMaps: 06589b9a38097bce0cd6e90f0fd9b5e4b4a9344c
+  iOS-Color-Picker: 0eebf395527785e1ff2180c35b69f6d369051555
+  Kingfisher: 6c67e3e57f2d81a9cfdfa25052cd86f33ceac9bb
+  MGSwipeTableCell: 616700eb0ffd1c611ba909066cb7fd739790a0a7
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  SnapKit: 2e456761aa92d4d4067a7a5594c18769d451a8ad
+  SwiftyButton: 7f1c7774a0aa721cbb6ea287742198ea0ee50c05
+  SwiftyJSON: f0be2e604f83e8405a624e9f891898bf6ed4e019
+  UIColor_Hex_Swift: 95f718452092a3efc8a827dffd2c04d3237be02d
+
+PODFILE CHECKSUM: c3dbd8b2b7fbfdd3eb428bbb71ed04eab90b78ac
+
+COCOAPODS: 1.1.0.rc.3
